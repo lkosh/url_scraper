@@ -1,0 +1,4 @@
+## Broker settings.
+broker_url = 'pyamqp://'
+#broker_url = 'amqp://guest:guest@localhost:4761//'
+result_backend = 'mongodb://localhost:27017/http_pages_database'
